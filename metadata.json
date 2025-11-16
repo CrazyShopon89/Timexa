@@ -1,0 +1,5 @@
+{
+  "name": "Biz Time Tracker",
+  "description": "A comprehensive time tracking and team management application. Admins can manage projects, tasks, and team members. Team members can track their time on assigned tasks with a start/stop timer and view personalized reports.",
+  "requestFramePermissions": []
+}
